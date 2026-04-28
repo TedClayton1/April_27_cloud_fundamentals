@@ -23,3 +23,6 @@
 3. Basic git workflow: add commit push 
 4. Create a pull request on GitHub
 5. Get the pr merged: main <- the_branch
+
+##Today's Date
+1. Today's date is 4/27/26
