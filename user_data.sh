@@ -9,7 +9,7 @@ cat > /usr/share/nginx/html/index.html <<'EOF'
 <html lang="en">
   <head></head>
   <body>
-    <h1>Hello, World!</h1>
+    <h1>Hello, World! I like team-style Github work</h1>
   </body>
 </html>
 
